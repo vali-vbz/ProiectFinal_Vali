@@ -1,11 +1,7 @@
-ProiectFinal
 
-
-# <p/><div style="text-decoration: underline;"><u></u>:</div>
+# <p/><div style="text-decoration: underline;"><u></u></div>
 <strong></strong>
-
-# <p/><div style="text-decoration: underline;"><u></u>:</div>
-Automated Acceptance Testing Framework utilizând Serenity BDD
+# <p/><div style="text-decoration: underline;"><u>Automated Acceptance Testing Framework utilizând Serenity BDD</u></div>
 
 # <p/><div><u>Descrierea lucrării</u>:</div>
 FastTrackIT este o aplicatie web utilizata pentru vanzarea de produse online. Aplicatia prezinta mai multe pagini si optiuni de login, cos de cumparaturi, lista produse, toate specifice comertului online.
