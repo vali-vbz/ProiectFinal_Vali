@@ -1,10 +1,10 @@
 ProiectFinal
 
 
-# <p/><div style="text-decoration: underline;"><u>Nume cursant</u>:</div>
-<strong>Valentin Bugoi</strong>
+# <p/><div style="text-decoration: underline;"><u></u>:</div>
+<strong></strong>
 
-# <p/><div style="text-decoration: underline;"><u>Tema lucrării</u>:</div>
+# <p/><div style="text-decoration: underline;"><u></u>:</div>
 Automated Acceptance Testing Framework utilizând Serenity BDD
 
 # <p/><div><u>Descrierea lucrării</u>:</div>
